@@ -1,0 +1,9 @@
+{
+  "name": "CampusQ",
+  "short_name": "CampusQ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f7fb",
+  "theme_color": "#123f65",
+  "icons": []
+}
